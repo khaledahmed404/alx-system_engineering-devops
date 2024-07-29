@@ -32,7 +32,3 @@ if __name__ == "__main__":
 
     # Print the completed tasks one by one with indentation
     [print("\t {}".format(complete)) for complete in completed]
-
-
-0x15-api/1-export_to_CSV.py
-
